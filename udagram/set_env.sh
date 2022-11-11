@@ -7,5 +7,7 @@ export POSTGRES_DB=postgres
 export AWS_BUCKET=arn:aws:s3:::udagram-bucket1
 export AWS_REGION=us-east-1
 export AWS_PROFILE=default
+export AWS_ACCESS_KEY_ID=AKIAYDFZYMCNOYRAR4HV
+
 export JWT_SECRET=mysecretstring
 export URL=http://udagram-api-env.eba-2ibrmqp7.us-east-1.elasticbeanstalk.com/
