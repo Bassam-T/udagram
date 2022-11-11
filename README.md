@@ -34,7 +34,7 @@ inside the AWS Cloud, data exchanged between (RDS Postgres,elastic beanstalk and
 
 ```
 <img src="docs/Udagram Archtiecture.png" align="right" />
-
+<br>
 ### Pipeline process
 
 ```
@@ -46,4 +46,5 @@ pipline process has 3 steps
 
 the diagram below show the process
 ```
+<br>
 <img src="docs/udagram-pipline-diagram.jpg" align="right" />
