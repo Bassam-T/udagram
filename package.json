@@ -12,7 +12,6 @@
         "api:start": "cd udagram/udagram-api && npm run dev",
         "api:deploy": "cd udagram/udagram-api && npm run deploy",
         "deploy": "npm run api:deploy && npm run frontend:deploy",
-
-        "dbServer": "pg_ctl -D ^C^:^\\Users^\\Bassam^.tarek^\\AppData^\\Local^\\pgsql^\\Data^ -l logfile start"
+        "install": "frontend:install && api:install"
     }
 }
