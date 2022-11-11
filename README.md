@@ -34,6 +34,7 @@ inside the AWS Cloud, data exchanged between (RDS Postgres,elastic beanstalk and
 
 ```
 <img src="docs/Udagram Archtiecture.png" align="right" />
+
 ### Pipeline process
 
 ```
