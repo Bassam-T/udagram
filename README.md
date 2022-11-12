@@ -1,13 +1,14 @@
-# front endlink
+# links
+### frontend link
 http://udagram-frontend1.s3-website-us-east-1.amazonaws.com/home
 
-#api server link
+### api server link
 http://udagram-api-env.eba-2ibrmqp7.us-east-1.elasticbeanstalk.com/
 
-#link for circle ci
+### link for circle ci
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/Bassam-T/udagram/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Bassam-T/udagram/tree/main)
 
-### Dependencies
+# Dependencies
 
 ```
 - Node v14.15.1 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
@@ -22,7 +23,7 @@ http://udagram-api-env.eba-2ibrmqp7.us-east-1.elasticbeanstalk.com/
 
 ```
 
-### Infrastructure description
+# Infrastructure description
 
 ```
 Data exchanged between our AWS Cloud and the Client Apllication 
@@ -33,9 +34,8 @@ Data exchanged between our AWS Cloud and the Client Apllication
 inside the AWS Cloud, data exchanged between (RDS Postgres,elastic beanstalk and the front end) as explained in the diagram
 
 ```
-<img src="docs/Udagram Archtiecture.png" align="right" />
-<br>
-### Pipeline process
+
+# Pipeline process
 
 ```
 pipline process has 3 steps
@@ -47,4 +47,5 @@ pipline process has 3 steps
 the diagram below show the process
 ```
 <br>
+<img src="docs/Udagram Archtiecture.png" align="right" />
 <img src="docs/udagram-pipline-diagram.jpg" align="right" />
